@@ -1,3 +1,5 @@
+The folder contains the dataset, the original code, data visualization pictures, and our research report.
+
 The following url links to the university's website where there is an introduction for our dataset.
 http://unb.ca/cic/research/datasets/index.html
 
